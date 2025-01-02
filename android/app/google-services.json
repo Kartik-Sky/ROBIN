@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "671548251869",
+    "project_id": "robin-aad0d",
+    "storage_bucket": "robin-aad0d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671548251869:android:b14e93883d93cddedbc534",
+        "android_client_info": {
+          "package_name": "com.example.robin_proto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOxFlnF2rgthjF2PpcKsgbq_LfU8yG1pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
